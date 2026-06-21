@@ -1,0 +1,10 @@
+com\TaskManager\TaskManager\repository\UserDetailsRepository.class
+com\TaskManager\TaskManager\controller\LoginOrRegisterController$LoginRequest.class
+com\TaskManager\TaskManager\config\MapperConfig.class
+com\TaskManager\TaskManager\util\JWTUtil.class
+com\TaskManager\TaskManager\config\SecurityConfig.class
+com\TaskManager\TaskManager\controller\LoginOrRegisterController.class
+com\TaskManager\TaskManager\TaskManagerApplication.class
+com\TaskManager\TaskManager\config\CorsConfig.class
+com\TaskManager\TaskManager\filter\JwtAuthFilter.class
+com\TaskManager\TaskManager\service\CustomUserDetailsService.class
